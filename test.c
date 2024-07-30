@@ -1,6 +1,7 @@
 #include<stdio.h>
 void print(int d[], int  n);
 
+// some comments
 int main(int argc, char *argv[]) {
 	int d[] = { 1, -5, 4, 3, 10, 11, -7, 9, 8, 5 };
 	int n=10, tmp, mp;
